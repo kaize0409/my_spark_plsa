@@ -1,0 +1,8 @@
+test-only
+test-only topicmodelling.PLSASuite
+test-only topicmodeling.PLSASuite
+exit
+test-only topicmodeling.PLSASuite
+test-only topicmodeling.PLSASuite > log
+test-only topicmodeling.PLSASuite
+exit
