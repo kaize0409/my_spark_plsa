@@ -2,136 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b11d980-a3a5-48a2-8662-ea13367d5f80" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$546f450d24755df4c8e8$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$546f450d24755df4c8e8$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$546f450d24755df4c8e8.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$546f450d24755df4c8e8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$9aaf8c6795ddf6bb47ec$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$9aaf8c6795ddf6bb47ec$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$9aaf8c6795ddf6bb47ec.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$9aaf8c6795ddf6bb47ec.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$a5bc45a38954aa9e09a3$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$a5bc45a38954aa9e09a3$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$a5bc45a38954aa9e09a3.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$a5bc45a38954aa9e09a3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$b449dfff69955e76319b$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$b449dfff69955e76319b$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$b449dfff69955e76319b.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$b449dfff69955e76319b.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$$anonfun$10$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$$anonfun$10$$anonfun$apply$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$$anonfun$10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$$anonfun$11$$anonfun$apply$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$$anonfun$11$$anonfun$apply$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$$anonfun$11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$$anonfun$12$$anonfun$apply$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$$anonfun$12$$anonfun$apply$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$$anonfun$12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$$anonfun$13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$$anonfun$14$$anonfun$apply$10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$$anonfun$14$$anonfun$apply$7$$anonfun$apply$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$$anonfun$14$$anonfun$apply$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$$anonfun$14$$anonfun$apply$9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$$anonfun$14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$$anonfun$15$$anonfun$apply$11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$$anonfun$15.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$$anonfun$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$$anonfun$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$$anonfun$9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$$anonfun$runPLSA$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$$anonfun$runPLSA$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/console/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/console/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/console/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/exportedProducts/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/fullClasspath/$global/streams/export" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/topicmodeling/AbstractPLSA$$anonfun$1.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/topicmodeling/AbstractPLSA$$anonfun$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/topicmodeling/AbstractPLSA$$anonfun$normalize$1$$anonfun$apply$1.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/topicmodeling/AbstractPLSA$$anonfun$normalize$1$$anonfun$apply$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/topicmodeling/AbstractPLSA$$anonfun$normalize$1.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/topicmodeling/AbstractPLSA$$anonfun$normalize$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/topicmodeling/AbstractPLSA$class.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/topicmodeling/AbstractPLSA$class.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/topicmodeling/Document.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/topicmodeling/Document.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/topicmodeling/DocumentParameters$$anonfun$getTheta$1.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/topicmodeling/DocumentParameters$$anonfun$getTheta$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/topicmodeling/DocumentParameters$$anonfun$wordsToTopicCnt$1.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/topicmodeling/DocumentParameters$$anonfun$wordsToTopicCnt$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/topicmodeling/DocumentParameters$.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/topicmodeling/DocumentParameters$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/topicmodeling/DocumentParameters.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/topicmodeling/DocumentParameters.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/FormatOutput$$anonfun$5.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/common/FormatOutput$$anonfun$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/FormatOutput$$anonfun$6.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/common/FormatOutput$$anonfun$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/FormatOutput$$anonfun$main$3.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/common/FormatOutput$$anonfun$main$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/FormatOutput$$anonfun$main$4$$anonfun$7.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/common/FormatOutput$$anonfun$main$4$$anonfun$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/FormatOutput$$anonfun$main$4$$anonfun$apply$2.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/common/FormatOutput$$anonfun$main$4$$anonfun$apply$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/FormatOutput$$anonfun$main$4.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/common/FormatOutput$$anonfun$main$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/FormatOutput$.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/common/FormatOutput$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/topicmodeling/PLSA$$anonfun$1.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/topicmodeling/PLSA$$anonfun$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/topicmodeling/PLSA.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/topicmodeling/PLSA.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$$anonfun$1.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$$anonfun$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$$anonfun$2.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$$anonfun$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$$anonfun$3.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$$anonfun$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$$anonfun$4.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$$anonfun$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$$anonfun$5.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$$anonfun$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$$anonfun$6.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$$anonfun$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/common/PLSAModel.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/topicmodeling/RobustDocumentParameters$.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/topicmodeling/RobustDocumentParameters$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/topicmodeling/RobustDocumentParameters.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/topicmodeling/RobustDocumentParameters.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/topicmodeling/RobustPLSA.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/topicmodeling/RobustPLSA.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/topicmodeling/SparseVectorFasterSum$class.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/topicmodeling/SparseVectorFasterSum$class.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/topicmodeling/TokenEnumeration.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/topicmodeling/TokenEnumeration.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/classes/topicmodeling/TokenEnumerator.class" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/topicmodeling/TokenEnumerator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" afterPath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/dplsa_2.10-1.0.jar" afterPath="$PROJECT_DIR$/target/scala-2.10/dplsa_2.10-1.0.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/output" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/common/FoldIn.scala" afterPath="$PROJECT_DIR$/src/main/scala/common/FoldIn.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/topicmodeling/PLSA.scala" afterPath="$PROJECT_DIR$/src/main/scala/topicmodeling/PLSA.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/common/PLSAModel.scala" afterPath="$PROJECT_DIR$/src/main/scala/common/PLSAModel.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__org_scalanlp_breeze_2_10_0_8_1_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scalanlp_breeze_2_10_0_8_1_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/topicmodeling/SparseVectorFasterSum.scala" afterPath="$PROJECT_DIR$/src/main/scala/topicmodeling/SparseVectorFasterSum.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.sbt" afterPath="$PROJECT_DIR$/build.sbt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-dplsa-build-compile-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-dplsa-build-compile-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-dplsa-build-compile.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-dplsa-build-compile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-dplsa-build-docs.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-dplsa-build-docs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-dplsa-build-optional.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-dplsa-build-optional.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-dplsa-build-plugin.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-dplsa-build-plugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-dplsa-build-pom.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-dplsa-build-pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-dplsa-build-provided.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-dplsa-build-provided.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-dplsa-build-runtime-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-dplsa-build-runtime-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-dplsa-build-runtime.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-dplsa-build-runtime.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-dplsa-build-scala-tool.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-dplsa-build-scala-tool.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-dplsa-build-sources.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-dplsa-build-sources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-dplsa-build-test-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-dplsa-build-test-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-dplsa-build-test.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-dplsa-build-test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-dplsa_2.10-compile-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-dplsa_2.10-compile-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-dplsa_2.10-compile.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-dplsa_2.10-compile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-dplsa_2.10-docs.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-dplsa_2.10-docs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-dplsa_2.10-optional.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-dplsa_2.10-optional.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-dplsa_2.10-plugin.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-dplsa_2.10-plugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-dplsa_2.10-pom.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-dplsa_2.10-pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-dplsa_2.10-provided.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-dplsa_2.10-provided.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-dplsa_2.10-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-dplsa_2.10-runtime-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-dplsa_2.10-runtime.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-dplsa_2.10-runtime.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-dplsa_2.10-scala-tool.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-dplsa_2.10-scala-tool.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-dplsa_2.10-sources.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-dplsa_2.10-sources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-dplsa_2.10-test-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-dplsa_2.10-test-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-dplsa_2.10-test.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-dplsa_2.10-test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/dplsa.iml" afterPath="$PROJECT_DIR$/.idea/modules/dplsa.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" afterPath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/dplsa-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/dplsa-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/default/dplsa_2.10/1.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/resolution-cache/default/dplsa_2.10/1.0/resolved.xml.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/dplsa-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/dplsa-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/default/dplsa_2.10/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/default/dplsa_2.10/1.0/resolved.xml.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/common/FormatOutput.scala" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="dplsa.iws" />
@@ -163,8 +34,8 @@
       <file leaf-file-name="PLSA.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/topicmodeling/PLSA.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.48964497" vertical-offset="1439" max-vertical-offset="2115">
-              <caret line="138" column="18" selection-start-line="138" selection-start-column="18" selection-end-line="138" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.37869823" vertical-offset="1439" max-vertical-offset="2115">
+              <caret line="133" column="21" selection-start-line="133" selection-start-column="21" selection-end-line="133" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -235,16 +106,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="510">
               <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FormatOutput.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/common/FormatOutput.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="1410">
-              <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -866,16 +727,16 @@
       <workItem from="1431316488765" duration="4717000" />
       <workItem from="1431573981285" duration="1525000" />
       <workItem from="1431579551820" duration="2193000" />
-      <workItem from="1431587050152" duration="595000" />
+      <workItem from="1431587050152" duration="914000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="344912000" />
+    <option name="totallyTimeSpent" value="345231000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -896,7 +757,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.234375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.234375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36789772" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -1269,14 +1130,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/common/FormatOutput.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="689" max-vertical-offset="1365">
-          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/common/FoldIn.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1679" max-vertical-offset="2355">
@@ -1319,8 +1172,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/topicmodeling/PLSA.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48964497" vertical-offset="1439" max-vertical-offset="2115">
-          <caret line="138" column="18" selection-start-line="138" selection-start-column="18" selection-end-line="138" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.37869823" vertical-offset="1439" max-vertical-offset="2115">
+          <caret line="133" column="21" selection-start-line="133" selection-start-column="21" selection-end-line="133" selection-end-column="21" />
           <folding />
         </state>
       </provider>
