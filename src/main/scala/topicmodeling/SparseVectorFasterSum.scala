@@ -29,4 +29,6 @@ private[topicmodeling] trait SparseVectorFasterSum {
         for (element <- vector) sum += element
         sum
     }
+  SparseVector
 }
+

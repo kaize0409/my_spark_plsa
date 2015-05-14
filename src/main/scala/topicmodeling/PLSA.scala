@@ -41,7 +41,7 @@ class PLSA(@transient protected val sc: SparkContext,
            protected val numberOfTopics: Int,
            private val numberOfIterations: Int,
            protected val random: Random,
-           private val documentOverTopicDistributionRegularizer:
+           val documentOverTopicDistributionRegularizer:
            DocumentOverTopicDistributionRegularizer = new UniformDocumentOverTopicRegularizer,
            @transient protected val topicRegularizer: TopicsRegularizer =
            new UniformTopicRegularizer,
