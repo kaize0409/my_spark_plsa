@@ -30,10 +30,6 @@
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/common/FoldIn$$anonfun$21$$anonfun$3.class[0m
 [0m[[0mdebug[0m] [0m	topicmodeling/AbstractPLSA$$anonfun$normalize$1$$anonfun$apply$1.class[0m
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/topicmodeling/AbstractPLSA$$anonfun$normalize$1$$anonfun$apply$1.class[0m
-[0m[[0mdebug[0m] [0m	common/FormatOutput$$anonfun$1.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/common/FormatOutput$$anonfun$1.class[0m
-[0m[[0mdebug[0m] [0m	common/FormatOutput.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/common/FormatOutput.class[0m
 [0m[[0mdebug[0m] [0m	topicmodeling/regulaizers/TopicsRegularizer$$anonfun$regularize$1.class[0m
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/topicmodeling/regulaizers/TopicsRegularizer$$anonfun$regularize$1.class[0m
 [0m[[0mdebug[0m] [0m	topicmodeling/DocumentParameters$$anonfun$getZ$1.class[0m
@@ -44,8 +40,6 @@
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/common/FoldIn$$anonfun$18$$anonfun$apply$3$$anonfun$apply$4.class[0m
 [0m[[0mdebug[0m] [0m	topicmodeling/regulaizers/UniformDocumentOverTopicRegularizer.class[0m
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/topicmodeling/regulaizers/UniformDocumentOverTopicRegularizer.class[0m
-[0m[[0mdebug[0m] [0m	common/FormatOutput$$anonfun$main$3.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/common/FormatOutput$$anonfun$main$3.class[0m
 [0m[[0mdebug[0m] [0m	topicmodeling/RobustGlobalParameters.class[0m
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/topicmodeling/RobustGlobalParameters.class[0m
 [0m[[0mdebug[0m] [0m	common/FoldIn$$anonfun$22$$anonfun$apply$11.class[0m
@@ -58,8 +52,6 @@
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/topicmodeling/regulaizers/MatrixInPlaceModification$$anonfun$shift$1.class[0m
 [0m[[0mdebug[0m] [0m	topicmodeling/DocumentParameters$$anonfun$getTheta$1.class[0m
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/topicmodeling/DocumentParameters$$anonfun$getTheta$1.class[0m
-[0m[[0mdebug[0m] [0m	common/FormatOutput$$anonfun$2.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/common/FormatOutput$$anonfun$2.class[0m
 [0m[[0mdebug[0m] [0m	topicmodeling/PLSA.class[0m
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/topicmodeling/PLSA.class[0m
 [0m[[0mdebug[0m] [0m	common/FoldIn$$anonfun$18$$anonfun$apply$3.class[0m
@@ -88,14 +80,10 @@
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/topicmodeling/RobustPLSA$.class[0m
 [0m[[0mdebug[0m] [0m	topicmodeling/regulaizers/DocumentOverTopicDistributionRegularizer$$anonfun$regularize$1.class[0m
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/topicmodeling/regulaizers/DocumentOverTopicDistributionRegularizer$$anonfun$regularize$1.class[0m
-[0m[[0mdebug[0m] [0m	common/FormatOutput$$anonfun$main$4$$anonfun$7.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/common/FormatOutput$$anonfun$main$4$$anonfun$7.class[0m
 [0m[[0mdebug[0m] [0m	topicmodeling/RobustPLSA$$anonfun$2.class[0m
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/topicmodeling/RobustPLSA$$anonfun$2.class[0m
 [0m[[0mdebug[0m] [0m	topicmodeling/SparseVectorFasterSum$class.class[0m
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/topicmodeling/SparseVectorFasterSum$class.class[0m
-[0m[[0mdebug[0m] [0m	common/FormatOutput$$anonfun$main$2$$anonfun$apply$1.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/common/FormatOutput$$anonfun$main$2$$anonfun$apply$1.class[0m
 [0m[[0mdebug[0m] [0m	topicmodeling/PLSA$$anonfun$getGlobalCounters$1.class[0m
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/topicmodeling/PLSA$$anonfun$getGlobalCounters$1.class[0m
 [0m[[0mdebug[0m] [0m	topicmodeling/DocumentParameters$$anonfun$1$$anonfun$apply$2.class[0m
@@ -122,8 +110,6 @@
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/topicmodeling/regulaizers/SymmetricDirichletDocumentOverTopicDistributionRegularizer$$anonfun$regularize$1.class[0m
 [0m[[0mdebug[0m] [0m	topicmodeling/RobustGlobalCounters$$anonfun$add$1$$anonfun$apply$1.class[0m
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/topicmodeling/RobustGlobalCounters$$anonfun$add$1$$anonfun$apply$1.class[0m
-[0m[[0mdebug[0m] [0m	common/FormatOutput$$anonfun$6.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/common/FormatOutput$$anonfun$6.class[0m
 [0m[[0mdebug[0m] [0m	topicmodeling/RobustDocumentParameters$$anonfun$2.class[0m
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/topicmodeling/RobustDocumentParameters$$anonfun$2.class[0m
 [0m[[0mdebug[0m] [0m	topicmodeling/AbstractPLSA$$anonfun$probabilityOfWordGivenTopic$1.class[0m
@@ -134,8 +120,6 @@
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/topicmodeling/TokenEnumerator$$anonfun$6.class[0m
 [0m[[0mdebug[0m] [0m	topicmodeling/SparseVectorFasterSum.class[0m
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/topicmodeling/SparseVectorFasterSum.class[0m
-[0m[[0mdebug[0m] [0m	common/FormatOutput$$anonfun$main$4.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/common/FormatOutput$$anonfun$main$4.class[0m
 [0m[[0mdebug[0m] [0m	topicmodeling/regulaizers/SymmetricDirichletTopicRegularizer$$anonfun$regularize$1.class[0m
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/topicmodeling/regulaizers/SymmetricDirichletTopicRegularizer$$anonfun$regularize$1.class[0m
 [0m[[0mdebug[0m] [0m	topicmodeling/regulaizers/MatrixInPlaceModification$$anonfun$shift$1$$anonfun$apply$mcVI$sp$1.class[0m
@@ -164,10 +148,6 @@
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/topicmodeling/AbstractPLSA$$anonfun$generalizedPerplexity$2.class[0m
 [0m[[0mdebug[0m] [0m	common/FoldIn$$anonfun$13.class[0m
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/common/FoldIn$$anonfun$13.class[0m
-[0m[[0mdebug[0m] [0m	common/FormatOutput$$anonfun$3.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/common/FormatOutput$$anonfun$3.class[0m
-[0m[[0mdebug[0m] [0m	common/FormatOutput$$anonfun$main$4$$anonfun$apply$2.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/common/FormatOutput$$anonfun$main$4$$anonfun$apply$2.class[0m
 [0m[[0mdebug[0m] [0m	topicmodeling/GlobalCounters$$anonfun$add$1.class[0m
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/topicmodeling/GlobalCounters$$anonfun$add$1.class[0m
 [0m[[0mdebug[0m] [0m	topicmodeling/RobustDocumentParameters$$anonfun$3.class[0m
@@ -176,8 +156,6 @@
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/common/FoldIn$$anonfun$8$$anonfun$apply$1.class[0m
 [0m[[0mdebug[0m] [0m	common/FoldIn$$anonfun$16.class[0m
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/common/FoldIn$$anonfun$16.class[0m
-[0m[[0mdebug[0m] [0m	common/FormatOutput$$anonfun$main$2$$anonfun$4.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/common/FormatOutput$$anonfun$main$2$$anonfun$4.class[0m
 [0m[[0mdebug[0m] [0m	common/FoldIn$$anonfun$12$$anonfun$apply$2.class[0m
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/common/FoldIn$$anonfun$12$$anonfun$apply$2.class[0m
 [0m[[0mdebug[0m] [0m	topicmodeling/AbstractPLSA$class.class[0m
@@ -202,8 +180,6 @@
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/topicmodeling/RobustDocumentParameters$$anonfun$wordToBackgroundCnt$1.class[0m
 [0m[[0mdebug[0m] [0m	topicmodeling/RobustGlobalCounters$$anonfun$add$2.class[0m
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/topicmodeling/RobustGlobalCounters$$anonfun$add$2.class[0m
-[0m[[0mdebug[0m] [0m	common/FormatOutput$$anonfun$5.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/common/FormatOutput$$anonfun$5.class[0m
 [0m[[0mdebug[0m] [0m	common/FoldIn$$anonfun$8$$anonfun$1.class[0m
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/common/FoldIn$$anonfun$8$$anonfun$1.class[0m
 [0m[[0mdebug[0m] [0m	common/PLSAModel$$anonfun$1.class[0m
@@ -252,8 +228,6 @@
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/common/FoldIn$$anonfun$12.class[0m
 [0m[[0mdebug[0m] [0m	topicmodeling/TokenEnumerator$$anonfun$3.class[0m
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/topicmodeling/TokenEnumerator$$anonfun$3.class[0m
-[0m[[0mdebug[0m] [0m	common/FormatOutput$$anonfun$main$2.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/common/FormatOutput$$anonfun$main$2.class[0m
 [0m[[0mdebug[0m] [0m	topicmodeling/TokenEnumerator$$anonfun$9.class[0m
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/topicmodeling/TokenEnumerator$$anonfun$9.class[0m
 [0m[[0mdebug[0m] [0m	topicmodeling/RobustPLSA$$anonfun$getGlobalCounters$2.class[0m
@@ -298,8 +272,6 @@
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/topicmodeling/AbstractPLSA$$anonfun$generalizedPerplexity$1.class[0m
 [0m[[0mdebug[0m] [0m	topicmodeling/AbstractPLSA$$anonfun$normalize$1.class[0m
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/topicmodeling/AbstractPLSA$$anonfun$normalize$1.class[0m
-[0m[[0mdebug[0m] [0m	common/FormatOutput$.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/common/FormatOutput$.class[0m
 [0m[[0mdebug[0m] [0m	common/FoldIn$$anonfun$19.class[0m
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/common/FoldIn$$anonfun$19.class[0m
 [0m[[0mdebug[0m] [0m	topicmodeling/regulaizers/TopicsRegularizer.class[0m
@@ -334,8 +306,6 @@
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/topicmodeling/regulaizers/UniformTopicRegularizer.class[0m
 [0m[[0mdebug[0m] [0m	common/FoldIn$$anonfun$21$$anonfun$apply$9.class[0m
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/common/FoldIn$$anonfun$21$$anonfun$apply$9.class[0m
-[0m[[0mdebug[0m] [0m	common/FormatOutput$$anonfun$main$1.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/common/FormatOutput$$anonfun$main$1.class[0m
 [0m[[0mdebug[0m] [0m	topicmodeling/AbstractPLSA$$anonfun$getCollectionLength$2.class[0m
 [0m[[0mdebug[0m] [0m	  /Users/kaiserding/kaiser/dplsa/target/scala-2.10/classes/topicmodeling/AbstractPLSA$$anonfun$getCollectionLength$2.class[0m
 [0m[[0minfo[0m] [0mDone packaging.[0m

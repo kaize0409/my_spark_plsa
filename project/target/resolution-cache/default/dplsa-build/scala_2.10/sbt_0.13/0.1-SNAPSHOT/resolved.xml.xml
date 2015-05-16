@@ -4,7 +4,7 @@
 		module="dplsa-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20150514132759"
+		publication="20150514203002"
 		e:scalaVersion="2.10" e:sbtVersion="0.13"
 	>
 		<description>

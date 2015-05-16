@@ -8,14 +8,16 @@ libraryDependencies += "org.apache.spark" %% "spark-sql" % "1.3.1"
 
 libraryDependencies += "org.apache.spark" %% "spark-hive" % "1.3.1"
 
+libraryDependencies += "org.apache.spark" %% "spark-mllib" % "1.3.1"
+
 resolvers += "Akka Repository" at "http://repo.akka.io/releases/"
 
 
-libraryDependencies ++= Seq(
-    "org.scalanlp" %% "breeze" % "0.11.2",
-    "org.scalanlp" %% "breeze-natives" % "0.11.2",
-    "org.scalanlp" %% "breeze-macros" % "0.11.2"
-)
+//libraryDependencies ++= Seq(
+//    "org.scalanlp" %% "breeze" % "0.11.2",
+//    "org.scalanlp" %% "breeze-natives" % "0.11.2",
+//    "org.scalanlp" %% "breeze-macros" % "0.11.2"
+//)
 
 resolvers ++= Seq(
     "Sonatype Releases" at "https://oss.sonatype.org/content/repositories/releases/"

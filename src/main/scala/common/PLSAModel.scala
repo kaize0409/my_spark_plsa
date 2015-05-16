@@ -23,9 +23,19 @@ object PLSAModel {
     val rawDocuments = files.map(_.split("\t"))
       .filter(_.size >= 2).map(x => (x(0), x(1).split(":").toSeq))
 
+
+    //get the alphabet
+    /*val wordTable = rawDocuments.flatMap(x => x._2).map((_, 1)).reduceByKey(_ + _).map {
+      case (word, num) => word + "\t" + num
+    }
+    wordTable.saveAsTextFile("/user/hadoop-dataapp/dingkaize/plsa/alphabet")
+*/
+
+
     // use token indexer to generate tokenIndex
-    val tokenIndexer = new TokenEnumerator().setRareTokenThreshold(0)
+    val tokenIndexer = new TokenEnumerator().setRareTokenThreshold(15)
     val tokenIndex = tokenIndexer(rawDocuments) //tokenEnumeration
+
 
     //broadcast token index
     val tokenIndexBC = sc.broadcast(tokenIndex)
@@ -84,6 +94,7 @@ object PLSAModel {
     }
 
     doc_topic.saveAsTextFile(doc_output_path)
+
 
   }
 
