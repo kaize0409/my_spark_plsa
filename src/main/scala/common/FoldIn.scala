@@ -2,12 +2,11 @@ package common
 
 import java.util.Random
 
-import breeze.linalg.{norm, DenseVector}
+import breeze.linalg.{DenseVector, norm}
 import org.apache.spark.rdd.RDD
-import org.apache.spark.{SparkContext, SparkConf}
-import topicmodeling.{DocumentParameters, GlobalParameters, TokenEnumerator, PLSA}
-import topicmodeling.regulaizers.{SymmetricDirichletTopicRegularizer, SymmetricDirichletDocumentOverTopicDistributionRegularizer}
-import org.apache.spark.SparkContext._
+import org.apache.spark.{SparkConf, SparkContext}
+import topicmodeling.regulaizers.{SymmetricDirichletDocumentOverTopicDistributionRegularizer, SymmetricDirichletTopicRegularizer}
+import topicmodeling.{DocumentParameters, GlobalParameters, PLSA, TokenEnumerator}
 
 /**
  * Created by kaiserding on 15/4/30.
@@ -60,7 +59,7 @@ object FoldIn {
     //get the p(w|z)
     val topic_word_file = sc.textFile(topic_word_input_path)
     val topic_word_temp = topic_word_file.map(_.split("\t")).map {
-        line => (line(0).toInt, line(1).toInt, line(2).toFloat)
+      line => (line(0).toInt, line(1).toInt, line(2).toFloat)
     }.groupBy(_._1).mapValues {
       line => {
         val topic_array = Array.ofDim[Float](alphabetSize)
@@ -76,7 +75,7 @@ object FoldIn {
       case (topic_index, topic_array) => topic_word(topic_index) = topic_array
     }
 
-//    println("topic_word: " + topic_word(0).mkString(","))
+    //    println("topic_word: " + topic_word(0).mkString(","))
     val global = new GlobalParameters(topic_word, alphabetSize)
 
     //fold in queries
@@ -108,7 +107,7 @@ object FoldIn {
     //format output
     val topic_word_result = topic_word.zipWithIndex.flatMap {
       case (topic, topic_index) => {
-        topic.zipWithIndex.sortBy(- _._1).take(30).map {
+        topic.zipWithIndex.sortBy(-_._1).take(30).map {
           case (score, word_index) =>
             topic_index + "\t" + tokenIndex.alphabet.get(word_index) + "\t" + score.formatted("%.4f")
         }
@@ -129,7 +128,7 @@ object FoldIn {
             theta(splits(0).toInt) = splits(1).toFloat
           }
         }
-        dealid + "\t" + contents + "\t" + theta.zipWithIndex.sortBy(- _._1).take(20).mkString(";")
+        dealid + "\t" + contents + "\t" + theta.zipWithIndex.sortBy(-_._1).take(20).mkString(";")
       }
     }
     //doc_topic_result.saveAsTextFile("/user/hadoop-dataapp/dingkaize/plsa/format_output/doc")
@@ -139,7 +138,7 @@ object FoldIn {
 
   }
 
-  def getSimilarity(docParameters : RDD[DocumentParameters], foldedInDocParameters : RDD[DocumentParameters]) = {
+  def getSimilarity(docParameters: RDD[DocumentParameters], foldedInDocParameters: RDD[DocumentParameters]) = {
     val bcFolded = docParameters.context.broadcast(foldedInDocParameters.collect())
     val result = docParameters.map {
       documentParameter => bcFolded.value.map(dp =>
@@ -149,7 +148,7 @@ object FoldIn {
     result
   }
 
-  def sim(a : Array[Float], b : Array[Float]): Float = {
+  def sim(a: Array[Float], b: Array[Float]): Float = {
     val va = DenseVector(a)
     val vb = DenseVector(b)
     va dot vb / (norm(va) * norm(vb)).toFloat
